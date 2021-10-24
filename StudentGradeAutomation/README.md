@@ -4,7 +4,7 @@
 
 Ortalama, en yüksek-en düşük başarı notu ve notların frekans grafiğini gösterir. 
 
-Verileri yerel depo haricinde text (.txt), excel (.xlsx), database (.sql) olarak kaydetmek ve açmak için **Save Data** klasöründeki ilgili yazılımlar kullanılmalıdır.
+Verileri yerel depo haricinde text (.txt), excel (.xlsx), database (.sql) olarak kaydetmek ve açmak için **Save Data** klasöründeki ilgili dosyalar kullanılmalıdır.
 
 ### Ekran Görüntüsü
 ![Student Grade Automation](https://raw.githubusercontent.com/myoluk/Internet-Programming/main/StudentGradeAutomation/ScreenShots/main.jpg)
