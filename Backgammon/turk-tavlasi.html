@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="tr">
+
+<head>
+  <meta charset="UTF-8">
+  <title>Tavla | @myoluk</title>
+  <style>
+    body {
+      font-family: Arial, Helvetica, sans-serif;
+    }
+
+    h1,
+    h3 {
+      margin: 0;
+      color: goldenrod;
+      text-align: center;
+    }
+  </style>
+</head>
+
+<body onload="init();" style="text-align: center;">
+
+  <h1>Türk Tavlası</h1>
+  <h3>@myoluk</h3>
+  <br>
+
+  <canvas id="myCanvas">
+    Tarayıcı canvas etiketini desteklemiyor.
+  </canvas>
+  <div id="control">
+    <button id="resetButton">Sıfırla</button>
+    <button id="undoButton">Geri al</button>
+  </div>
+  <div id="mousePos"></div>
+  <div id="statusInfo"></div>
+
+  <script src="backgammon.js"></script>
+
+</body>
+
+</html>
